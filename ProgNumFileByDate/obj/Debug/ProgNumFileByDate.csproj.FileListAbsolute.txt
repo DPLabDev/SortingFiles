@@ -1,0 +1,9 @@
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\bin\Debug\ProgNumFileByDate.exe.config
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\bin\Debug\ProgNumFileByDate.exe
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\bin\Debug\ProgNumFileByDate.pdb
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Debug\ProgNumFileByDate.Form1.resources
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Debug\ProgNumFileByDate.Properties.Resources.resources
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Debug\ProgNumFileByDate.csproj.GenerateResource.cache
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Debug\ProgNumFileByDate.csproj.CoreCompileInputs.cache
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Debug\ProgNumFileByDate.exe
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Debug\ProgNumFileByDate.pdb

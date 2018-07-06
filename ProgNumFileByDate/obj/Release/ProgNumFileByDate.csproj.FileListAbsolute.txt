@@ -1,0 +1,10 @@
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\bin\Release\ProgNumFileByDate.exe.config
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\bin\Release\ProgNumFileByDate.exe
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\bin\Release\ProgNumFileByDate.pdb
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Release\ProgNumFileByDate.Form1.resources
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Release\ProgNumFileByDate.Properties.Resources.resources
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Release\ProgNumFileByDate.csproj.GenerateResource.cache
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Release\ProgNumFileByDate.csproj.CoreCompileInputs.cache
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Release\ProgNumFileByDate.exe
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Release\ProgNumFileByDate.pdb
+C:\Users\sdipi\Documents\Clienti\Corvallis Holding S.p.A\RetItalia Internazionale S.p.A\GitLab\Apps\ProgNumFileByDate\ProgNumFileByDate\obj\Release\ProgNumFileByDate.csprojAssemblyReference.cache
